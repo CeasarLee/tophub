@@ -12,3 +12,6 @@ This repo hosts pre-tuned configurations
 ## How to add a package for a new backend
 1. Upload your log file as `xxx_v0.01.log`
 2. Add the name to `PACKAGE_VERSION` in tophub.py to use the new file.
+
+## Usage
+ mv tophub/ to ~/.tvm/tophub.
